@@ -329,7 +329,7 @@ to reduce the chance of overlap with unrelated declarations.
 
 As a general rule,
 code should be organized into modules
-such that module is responsible for a single responsibility.
+such that each module is responsible for a single responsibility.
 
 If it makes sense to do so,
 consider packaging functionality provided by types and methods
